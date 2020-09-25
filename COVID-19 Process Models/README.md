@@ -4,5 +4,5 @@ Click on the process model you want to explore.
 ### [COVID-19 Symptomatic Manifestation](https://github.com/Berger-DM/berger-dm.github.io/blob/gh-pages/COVID-19%20Process%20Models/covid-symptomatic-manifestation.md)
 
 <p align="center">
-<img src="https://berger-dm.github.io/SARS-CoV-2-COVID-19-Models/COVID-19%20Process%20Models/COVID-19%20Symptomatic%20Manifestation.png" width=50% height=50%>
+<img src="https://github.com/Berger-DM/berger-dm.github.io/blob/gh-pages/COVID-19%20Process%20Models/COVID-19%20Symptomatic%20Manifestation.png" width=50% height=50%>
 </p>
