@@ -2,6 +2,11 @@
 
 The *Identification of COVID-19 Disease* process starts when the patient or person suspects an infection (*Start Event: Infection suspected by patient*). Then, they determine the severity of their symptoms (*Task: Determine symptom severity*). They may either be experiencing difficulty to breathe, or not. If they are, they seek professional medical help (*Task: Seek professional medical help*), and then professional help is sought out (*Message End Event: Professional help sought out*). 
 
+<p align="center">
+<img src="https://github.com/Berger-DM/berger-dm.github.io/blob/gh-pages/COVID-19%20Process%20Models/COVID-19%20Identification.png" width=50% height=50%>
+</p>
+
+
 If they are not, they then begin self-isolation (*Subprocess: Self-Isolation*). Self-isolation starts when the patient or person decides to self-isolate. They then avoid physical contact with other people (*Task: Avoid physical contact with other people*), at the same time as they stay home (*Task: Stay home*) for 14 days. After that, self-isolation ends. After self-isolation, the patient or person's symptoms can either have
 subsided, or not. If they have, whatever illness they had is over, and the process ends with the case not evaluated for COVID-19 disease (*End Event: Case not evaluated for COVID-19 disease*). If they have not, then the person repeats their evaluation of difficulty breathing and continues the process from that point.
 
