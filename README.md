@@ -4,4 +4,4 @@ This page contains the work developed by [Nicolas Bohnenberger](https://github.c
 
 ### [SARS-CoV-2 Process Models and Descriptions](https://github.com/Berger-DM/SARS-CoV-2-COVID-19-Models/blob/gh-pages/SARS-CoV-2%20Process%20Models/sars-cov-2.md)
 
-### [COVID-19 Process Models and Descriptions](https://github.com/Berger-DM/SARS-CoV-2-COVID-19-Models/blob/gh-pages/COVID-19%20Process%20Models/covid-19.md)
+### [COVID-19 Process Models and Descriptions](https://github.com/Berger-DM/SARS-CoV-2-COVID-19-Models/blob/gh-pages/COVID-19%20Process%20Models/README.md)
