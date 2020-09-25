@@ -1,7 +1,7 @@
 ## COVID-19 Symptomatic Manifestation
 
 <p align="center">
-<img src="https://github.com/Berger-DM/SARS-CoV-2-COVID-19-Models/COVID-19%20Process%20Models/COVID-19%20Symptomatic%20Manifestation.png" width=50% height=50%>
+<img src="https://github.com/Berger-DM/berger-dm.github.io/COVID-19%20Process%20Models/COVID-19%20Symptomatic%20Manifestation.png" width=50% height=50%>
 </p>
 
 The Symptomatic Manifestation of COVID-19 Disease process starts when a person is infected (*Start Event: Person Infected*). The infection receptor, or infected receptor, then goes through the disease incubation period before manifesting any symptoms (*Intermediate Timer Event: Incubation period*). This period may range from 1 to 14 days in duration, with a mean duration of 5 to 6 days. After that, the disease may initially manifest with different severities (*Task: Determine initial severity of infection*). The initial severity can either be mild, moderate, or severe.
