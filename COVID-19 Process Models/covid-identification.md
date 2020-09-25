@@ -3,7 +3,7 @@
 The *Identification of COVID-19 Disease* process starts when the patient or person suspects an infection (*Start Event: Infection suspected by patient*). Then, they determine the severity of their symptoms (*Task: Determine symptom severity*). They may either be experiencing difficulty to breathe, or not. If they are, they seek professional medical help (*Task: Seek professional medical help*), and then professional help is sought out (*Message End Event: Professional help sought out*). 
 
 <p align="center">
-<img src="https://github.com/Berger-DM/berger-dm.github.io/blob/gh-pages/COVID-19%20Process%20Models/COVID-19%20Identification.png" width=50% height=50%>
+<img src="https://github.com/Berger-DM/berger-dm.github.io/blob/gh-pages/COVID-19%20Process%20Models/COVID-19%20Identification.jpg" width=50% height=50%>
 </p>
 
 
