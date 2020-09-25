@@ -1,5 +1,4 @@
 ## COVID-19 Process Models
-Click on the process model you want to explore.
 
 ### [COVID-19 Symptomatic Manifestation](https://github.com/Berger-DM/berger-dm.github.io/blob/gh-pages/COVID-19%20Process%20Models/covid-symptomatic-manifestation.md)
 
