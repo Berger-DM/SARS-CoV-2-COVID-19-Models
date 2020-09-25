@@ -25,3 +25,15 @@ In the mild symptomatic manifestation of the disease, the infected receptor may 
 </p>
 
 In the moderate symptomatic manifestation of the disease, the infected receptor may develop a range of moderate symptoms. These may be fever (*Task: Develop fever*), cough (*Task: Develop cough*), shortness of breath (*Task: Develop shortness of breath*), tachypnea (*Task: Develop tachypnea*), or other symptoms (*Task: Develop other moderate illness symptoms*).
+
+<p align="center">
+<img src="https://github.com/Berger-DM/SARS-CoV-2-COVID-19-Models/blob/gh-pages/COVID-19%20Process%20Models/Severe%20Illness%20Symptomatic%20Manifestation.png" width=50% height=50%>
+</p>
+
+In the severe symptomatic manifestation of the disease, the infected receptor may develop a range of severe symptoms. These may be severe pneumonia (*Task: Develop severe pneumonia*), ARDS (*Task: Develop acute respiratory distress syndrome*), sepsis (*Task: Develop sepsis*), septic shock (*Task: Develop septic shock*), or other symptoms (*Task: Develop other severe illness symptoms*).
+
+<p align="center">
+<img src="https://github.com/Berger-DM/SARS-CoV-2-COVID-19-Models/blob/gh-pages/COVID-19%20Process%20Models/Critical%20Illness%20Symptomatic%20Manifestation.png" width=50% height=50%>
+</p>
+
+In the critical symptomatic manifestation of the disease, the infected receptor may develop a range of critical symptoms. These may be respiratory failure (*Task: Develop respiratory failure*), RNAemia (*Task: RNAemia*), cardiac injury (*Task: Develop cardiac injury*), septic shock (*Task: Develop septic shock*), Multiple Organ Dysfunction (*Task: Develop multiple organ dysfunction*), or other symptoms (*Task: Develop other critical illness symptoms*).
